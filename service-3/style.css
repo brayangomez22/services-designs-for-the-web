@@ -15,6 +15,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .container .box{
@@ -22,6 +23,7 @@ body{
     width: 300px;
     height: 400px;
     color: #fff;
+    margin: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
